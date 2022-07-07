@@ -41,6 +41,7 @@ _This sheet music is released under permission from the original composer and is
 020 See In Your Fantasy / [Sheet Music](/media/omori/See_In_Your_Fantasy_PB.pdf) / [Piano Tutorial](https://youtu.be/cPlKk6mlgNw)  
 021 Sugar Star Planetarium / [Sheet Music](/media/omori/Sugar_Star_Planetarium_PB.pdf) / [Piano Tutorial](https://youtu.be/KXD0vf3sM1M)  
 022 Lost, Then Found! / [Sheet Music](/media/omori/Lost_Then_Found_PB.pdf) / [Piano Tutorial](https://youtu.be/GVXevq9hO60)  
+023 THE VENGEANCE OF THOSE FORGOTTEN IN DARKNESS / [Sheet Music](/media/omori/THE_VENGEANCE_OF_THOSE_FORGOTTEN_IN_DARKNESS_PB.pdf) / [Piano Tutorial](https://youtu.be/aHjBAs7QeTY)  
 025 Lovesick - 80,000 Lightyears / [Sheet Music](/media/omori/Lovesick_-_80000_Lightyears_PB.pdf) / [Piano Tutorial](https://youtu.be/NxBslYQvqSE)  
 027 Three Bar Logos / [Sheet Music](/media/omori/Three_Bar_Logos_PB.pdf) / [Piano Tutorial](https://youtu.be/j7v5XAC0JDo)  
 029 Good For Health, Bad For Imagination / [Sheet Music](/media/omori/Good_For_Health_Bad_For_Imagination_PB.pdf) / [Piano Tutorial](https://youtu.be/1lDdwpkyofs)  
@@ -69,6 +70,7 @@ _This sheet music is released under permission from the original composer and is
 
 ##### DISC 2
 
+071 ‘X’ Marks The Spot! / [Sheet Music](/media/omori/X_Marks_The_Spot_PB.pdf) / [Piano Tutorial](https://youtu.be/Qra7wvSK11U)  
 075 Forest Frenzy / [Sheet Music](/media/omori/Forest_Frenzy_PB.pdf) / [Piano Tutorial](https://youtu.be/m1msTadmDUQ)  
 078 How...sad! / [Sheet Music](/media/omori/How...sad!_PB.pdf) / [Piano Tutorial](https://youtu.be/4mXxt52snGM)  
 081 Splintered Sweets In The Castle / [Sheet Music](/media/omori/Splintered_Sweet_In_The_Castle_PB.pdf) / [Piano Tutorial](https://youtu.be/CC--261SVrE)  
@@ -103,6 +105,7 @@ _This sheet music is released under permission from the original composer and is
 127 Remember To Be Patient / [Sheet Music](/media/omori/Remember_To_Be_Patient_PB.pdf) / [Piano Tutorial](https://youtu.be/_46mOFGX0X0)  
 131 Welcome Again. / [Sheet Music](/media/omori/Welcome_Again_PB.pdf) / [Piano Tutorial](https://youtu.be/w84qVFN7ToQ)  
 136 Glade / [Sheet Music](/media/omori/Glade_PB.pdf) / [Piano Tutorial](https://youtu.be/iHy-WKR4S8s)  
+144 Come and See / [Sheet Music](/media/omori/Come_and_See_PB.pdf) / [Piano Tutorial](https://youtu.be/IHdUcAApNGQ)  
 145 Friends. / [Sheet Music](/media/omori/Friends_PB.pdf) / [Piano Tutorial](https://youtu.be/zd2unlLxYrE)  
 147 Orchard / [Sheet Music](/media/omori/Orchard_PB.pdf) / [Piano Tutorial](https://youtu.be/lW8hzzw5M4E)  
 153 Do You Remember? / [Sheet Music](/media/omori/Do_You_Remember_PB.pdf) / [Piano Tutorial](https://youtu.be/ycEb0uKTMCw)  
@@ -121,10 +124,12 @@ _This sheet music is released under permission from the original composer and is
 ##### Bonus Arrange
 
 Hero’s Piano Song / [Sheet Music](/media/omori/Hero_Piano_Song_PB.pdf) / [Piano Tutorial](https://youtu.be/NVD5WHhI76c)  
+Mari Boss Battle / [Sheet Music](/media/omori/Mari_Boss_Battle_PB.pdf) / [Piano Tutorial](https://youtu.be/7Rn_sZykqlU)  
+OMORI 2020 Trailer / [Sheet Music](/media/omori/OMORI_2020_Trailer_PB.pdf) / [Piano Tutorial](https://youtu.be/09wvMaaXrvU)  
 OMORI Switch Announcement Trailer OST / [Sheet Music](/media/omori/OMORI_Switch_Trailer_Theme_PB.pdf) / [Piano Tutorial](https://youtu.be/iW_tIgAqGXc)
 
 ---
 
 **_Find Pianobin on [YouTube](https://www.youtube.com/pianobin)._**
 
-_Last updated 02/19/22_
+_Last updated 07/07/22_
